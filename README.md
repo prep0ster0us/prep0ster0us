@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 # 💻 Ritwik Babu  
 
 🌟 **Mobile Developer | Software Engineer | Graduate Student**  

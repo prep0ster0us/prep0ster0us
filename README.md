@@ -26,7 +26,8 @@
 ## 💼 **Professional Experience**  
 
 ### **Teaching Assistant | University of New Haven** (Aug 2024 – Present)  
-👨‍🏫 Guiding students in Android development, debugging, and project reviews.  
+👨‍🏫 Assist students with concepts, grade assignments and project reviews, and help with debugging.
+Courses: Android development, iOS development, Cryptography & Data Security, Algorithm Design & Analysis
 
 ### **Senior Systems Administrator | University of New Haven** (Apr 2024 – Present)  
 🖥️ Supporting tech operations and mentoring graduate students in CS concepts.  
@@ -40,6 +41,10 @@
 ---
 
 ## 🚀 **Projects**  
+
+### 🤖 **AI Rubik Cube Solver**  
+**Technologies:** python, pygame, kociemba
+- Rubik Cube Solver using Reinforcement Learning (2x2 and 3x3) 
 
 ### 🎮 **Spectrum Shift**  
 **Technologies:** Swift, SpriteKit, GameplayKit  
@@ -57,6 +62,8 @@
 
 ## 📈 **What I'm Working On**  
 
+- Exploring live chat session management (both text and media) in iOS (with/without snapshot listeners) 🗒️
+- A grocery cart-sharing app which lets users collaborate on groceries to be bought for the family/house 🛒
 - Enhancing **Spectrum Shift** with complex game mechanics 🎮  
 - Exploring cross-platform mobile frameworks 🤖🍎  
 
